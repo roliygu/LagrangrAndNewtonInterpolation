@@ -1,0 +1,4 @@
+LagrangrAndNewtonInterpolation
+==============================
+
+LagrangrAndNewtonInterpolation
